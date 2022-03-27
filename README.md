@@ -11,7 +11,7 @@ A Simple Telegram Bot To Chat Other in telegram by A bot
 
 [KEN KAN](https://github.com/kenkansaja)
 
-[Achu Biju](https://t.me/AmiFutami)
+[Achu Biju](https://t.me/ismiyev95)
 
 
 
@@ -42,7 +42,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
 
 # Support 
-<a href="https://t.me/safothebot"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/safothebot"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/ismiyev95"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 # Note
 
